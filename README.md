@@ -32,19 +32,10 @@
 4. Зайдите в игру. В чате появится сообщение `[CrimeHelp] successfully loaded!`.
 5. Нажмите **F8** (или введите `/oc`) для открытия меню.
 
-## 🌐 Настройка сайта (для разработчиков)
-
-Сайт работает на чистом HTML/CSS/JS и использует **JSONBin.io** в качестве базы данных.
-1. Зарегистрируйтесь на [JSONBin.io](https://jsonbin.io).
-2. Создайте бин с базовой структурой (см. папку `web/`).
-3. Замените ключи `binId`, `masterKey` и `accessKey` в файлах `admin.html`, `bugs.html`, `index.html`, `news.html`, `faq.html`.
-
-> ⚠️ **Внимание**: Никогда не выкладывайте ваш `X-Master-Key` в публичный доступ!
-
 ## 📞 Контакты
 
-- **Авторы**: Stanislav Ronin, Drakon Drakons
-- **VK**: [Stanislav Ronin](https://vk.com/ronin), [Drakon Drakons](https://vk.com/drakon_drakons)
+- **Автор**: Drakon Drakons
+- **VK**: [Drakon Drakons](https://vk.com/drakon_drakons)
 
 ---
 <div align="center">
